@@ -1,4 +1,3 @@
-name: Terraform CI/CD
 name: Terraform CI with OIDC
 
 on:
